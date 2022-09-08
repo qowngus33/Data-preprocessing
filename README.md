@@ -2,6 +2,9 @@
 
 Code for preprocessing veterinary public data for use in dog and cat disease prediction diagnosis, vet information usage
 
+## visulization:
+![word_cloud](https://user-images.githubusercontent.com/83813866/189059308-805b16a0-5ec9-417f-af8e-af66569ca062.png)
+
 ## link:
 [Ministry of the Interior and Safety, vet (행정안전부_동물병원)](https://www.data.go.kr/data/15045050/fileData.do)
 
